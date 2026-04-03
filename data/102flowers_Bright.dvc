@@ -1,0 +1,6 @@
+outs:
+- md5: ea3df076757aac4170b8a4f260df76bf.dir
+  size: 341751295
+  nfiles: 8189
+  hash: md5
+  path: 102flowers_Bright

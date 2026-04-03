@@ -1,0 +1,6 @@
+outs:
+- md5: f3bf4829859d830cf5838c4846f874e2.dir
+  size: 347391890
+  nfiles: 8189
+  hash: md5
+  path: 102flowers_augmented

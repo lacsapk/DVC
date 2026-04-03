@@ -1,0 +1,6 @@
+outs:
+- md5: a4200c88a56d5d414fecde5d9d96e671.dir
+  size: 51457987
+  nfiles: 8189
+  hash: md5
+  path: 102flowers_crop
